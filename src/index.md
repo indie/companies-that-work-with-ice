@@ -15,10 +15,12 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Accenture Federal Services
 - Actionable Intelligence Technologies
 - Acuity, Inc.
+- Acumen Solutions (A Salesforce partner) 
 - [Adobe](https://www.usaspending.gov/#/award/68418194)
 - Advanced Technologies And Laboratories (Atl) International
 - Advantage Technologies
 - Akira Technologies Inc
+- Akima Global Services, LLC (A Salesforce partner KROME DETENTION CENTER Award ID 70CDCR19FR0000039 Current Award Amount $46,907,744)[Source](https://www.usaspending.gov/#/award/80354764) 
 - Allied Telecom Group
 - Alvarez & Associates
 - Amazon
@@ -34,6 +36,7 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Blue Canopy Group
 - Blue Tech
 - Booz Allen Hamilton
+- Carahsoft (A Salesforce partner)[
 - C & C International Computers & Consultants
 - CSRA
 - Caliburn International
@@ -122,6 +125,7 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Missing Link Communications
 - Mlinqs
 - [MongoDB](https://www.usaspending.gov/#/award/23850856)
+- MVM, Inc. (A Salesforce partner) Transports unaccompanied children to and from ICE concentration camps. They received $84,124,557 for work in 2017-2018 and $73,204,159 for work through this September [Source](https://www.usaspending.gov/#/award/23822918)
 - Mythics
 - N2Grate Government Technology Solutions
 - National Cyber-Forensics And Training Alliance Limited.
@@ -150,6 +154,7 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Rstudio
 - SNMP Research International Inc
 - Safer Society Group Sweden Ab
+- Salesforce
 - Savantage Financial Services
 - [ServiceNow](https://www.usaspending.gov/#/award/68335553)
 - Sevatec
